@@ -54,7 +54,7 @@ The project follows a **Lakehouse architecture** implemented on Databricks, usin
 - Tasks executed in dependency order (Dimensions → Facts)
 - Pipelines scheduled to run **daily** for incremental updates
 
-> Databricks Job DAG screenshots are included in the project assets.
+![Lakehouse Architecture](resources/orchestration.png)
 
 ---
 
