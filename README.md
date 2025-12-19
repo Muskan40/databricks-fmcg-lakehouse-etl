@@ -18,7 +18,7 @@ The project follows a **Lakehouse architecture** implemented on Databricks, usin
 - Databricks Jobs for orchestration
 - BI dashboards and Genie for consumption
 
-> Architecture diagram available in the `/resources` folder.
+![Lakehouse Architecture](resources/project_architecture.png)
 
 ---
 
@@ -67,7 +67,7 @@ The project follows a **Lakehouse architecture** implemented on Databricks, usin
   - Channel-wise revenue analysis
 - Used to validate data quality and business usability
 
-> Dashboard screenshots are available in the repository.
+![Dashboard](2_dashboarding/fmcg_dashboard.png)
 
 ---
 
